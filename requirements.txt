@@ -1,0 +1,17 @@
+asn1crypto==1.5.1
+blinker==1.8.2
+click==8.1.7
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+pg8000==1.31.2
+psycopg2-binary==2.9.9
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+scramp==1.4.5
+six==1.16.0
+SQLAlchemy==2.0.30
+typing_extensions==4.11.0
+Werkzeug==3.0.3
